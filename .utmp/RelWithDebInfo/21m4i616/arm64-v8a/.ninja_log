@@ -1,0 +1,10 @@
+# ninja log v5
+45	2202	7875579908338837	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d00d972f0e903829
+26	2294	7875579908669128	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	140232697eea791
+70	2304	7875579909029469	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a9598a350009b16b
+9	2342	7875579909730473	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1bf2daf6f9526432
+1	3129	7875579917794293	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a3b3072a09d66907
+56	3424	7875579920768713	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	162e68a8d6d3fb8b
+36	3556	7875579922089901	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	994e08993d41ee3f
+18	3637	7875579922930658	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	eb01018815214f5e
+3637	3799	7875579924602187	D:/000 MY FILES/GITHUB/silniki_gier01/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/21m4i616/obj/arm64-v8a/libgame.so	a5c30f8c8cf25289

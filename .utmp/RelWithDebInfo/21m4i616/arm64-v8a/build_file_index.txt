@@ -1,0 +1,2 @@
+D:\000 MY FILES\GITHUB\silniki_gier01\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\000 MY FILES\GITHUB\silniki_gier01\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
